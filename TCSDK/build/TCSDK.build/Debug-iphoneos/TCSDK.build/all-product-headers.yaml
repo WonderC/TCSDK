@@ -1,0 +1,38 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/wonderc/Library/Developer/Xcode/DerivedData/TCSDK-fclfcfdlokurmjdkxhptnnrgwnae/Build/Products/Debug-iphoneos/TCSDK.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Hello.h",
+          'external-contents': "/Users/wonderc/Desktop/TCSDK/TCSDK/TCSDK/Hello.h"
+        },
+        {
+          'type': 'file',
+          'name': "TCSDK-Swift.h",
+          'external-contents': "/Users/wonderc/Library/Developer/Xcode/DerivedData/TCSDK-fclfcfdlokurmjdkxhptnnrgwnae/Build/Products/Debug-iphoneos/TCSDK.framework/Headers/TCSDK-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "TCSDK.h",
+          'external-contents': "/Users/wonderc/Desktop/TCSDK/TCSDK/TCSDK/TCSDK.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/wonderc/Library/Developer/Xcode/DerivedData/TCSDK-fclfcfdlokurmjdkxhptnnrgwnae/Build/Products/Debug-iphoneos/TCSDK.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/wonderc/Desktop/TCSDK/TCSDK/build/TCSDK.build/Debug-iphoneos/TCSDK.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}
